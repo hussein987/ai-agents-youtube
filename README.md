@@ -77,20 +77,6 @@ python 01_simple_agent.py
 python 02_agent_with_tool.py
 ```
 
-## Episodes
-
-### Episode 1: LangGraph Basics - Your First AI Agent
-**Status**: ✅ Complete
-**Topics**: Graph, Node, Edge, State, Tool usage
-**Code**: `episode-01-langgraph-basics/`
-
-Learn the fundamentals by building a simple agent that can use a calculator tool.
-
-### Episode 2: Coming Soon
-**Topics**: Multiple tools, conversation memory, error handling
-
-More episodes coming soon!
-
 ## Requirements
 
 - Python 3.8+
@@ -103,14 +89,7 @@ More episodes coming soon!
 - [LangChain Tools](https://python.langchain.com/docs/integrations/tools/)
 - [Anthropic API Docs](https://docs.anthropic.com/)
 
-## Contributing
-
-Found an issue or have a suggestion? Feel free to open an issue or submit a pull request!
-
-## License
-
-MIT License - feel free to use this code for learning and teaching.
-
 ## Follow Along
 
-Subscribe to the YouTube channel for new episodes!
+Subscribe to the YouTube channel for new episodes!  
+👉 https://www.youtube.com/@hussein.younes/videos
