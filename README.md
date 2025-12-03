@@ -11,6 +11,14 @@ This series covers everything you need to know about building AI agents:
 - Production deployment and scaling
 - Best practices and real-world applications
 
+## Episodes
+
+### Episode 1: LangGraph Basics - Your First AI Agent
+
+[![Watch on YouTube](https://img.youtube.com/vi/hyi3vP41RdU/maxresdefault.jpg)](https://youtu.be/hyi3vP41RdU)
+
+Learn the fundamentals of AI agents and build your first agent using LangGraph. [View Episode Code →](./episode-01-langgraph-basics)
+
 ## Project Structure
 
 ```

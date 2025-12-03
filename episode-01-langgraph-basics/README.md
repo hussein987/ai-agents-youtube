@@ -1,5 +1,7 @@
 # Episode 1: LangGraph Basics - Your First AI Agent
 
+[![Watch on YouTube](https://img.youtube.com/vi/hyi3vP41RdU/maxresdefault.jpg)](https://youtu.be/hyi3vP41RdU)
+
 Welcome to the first episode of the AI Agents series! In this episode, we'll build your first AI agent from scratch using LangGraph.
 
 ## What You'll Learn
