@@ -19,15 +19,22 @@ This series covers everything you need to know about building AI agents:
 
 Learn the fundamentals of AI agents and build your first agent using LangGraph. [View Episode Code →](./episode-01-langgraph-basics)
 
+### Episode 2: Memory and State - Making Agents Remember
+
+[![Watch on YouTube](https://img.youtube.com/vi/XDi2Y1bhQEc/maxresdefault.jpg)](https://youtu.be/XDi2Y1bhQEc)
+
+Give your AI agent a memory so it can remember conversations across multiple turns. [View Episode Code →](./episode-02-memory-and-state)
+
 ## Project Structure
 
 ```
 ai-agents-youtube/
-├── requirements.txt               # Shared dependencies for all episodes
-├── episode-01-langgraph-basics/   # Episode 1: Your First AI Agent
-├── episode-02-.../                # Future episodes
-├── .gitignore                     # Git ignore file
-└── README.md                      # This file
+├── requirements.txt                # Shared dependencies for all episodes
+├── episode-01-langgraph-basics/    # Episode 1: Your First AI Agent
+├── episode-02-memory-and-state/    # Episode 2: Memory and State
+├── episode-03-.../                 # Future episodes
+├── .gitignore                      # Git ignore file
+└── README.md                       # This file
 ```
 
 ## Quick Start
