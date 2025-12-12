@@ -11,6 +11,8 @@ This series covers everything you need to know about building AI agents:
 - Production deployment and scaling
 - Best practices and real-world applications
 
+**[View the complete 10-episode roadmap →](./ROADMAP.md)**
+
 ## Episodes
 
 ### Episode 1: LangGraph Basics - Your First AI Agent
@@ -25,16 +27,24 @@ Learn the fundamentals of AI agents and build your first agent using LangGraph. 
 
 Give your AI agent a memory so it can remember conversations across multiple turns. [View Episode Code →](./episode-02-memory-and-state)
 
+### Episode 3: Conditional Logic & Branching - Smart Routing
+
+[![Watch on YouTube](https://img.youtube.com/vi/ot-eA2TMa9M/maxresdefault.jpg)](https://youtu.be/ot-eA2TMa9M)
+
+Build agents that make intelligent routing decisions based on state. [View Episode Code →](./episode-03-conditional-logic)
+
 ## Project Structure
 
 ```
 ai-agents-youtube/
-├── requirements.txt                # Shared dependencies for all episodes
-├── episode-01-langgraph-basics/    # Episode 1: Your First AI Agent
-├── episode-02-memory-and-state/    # Episode 2: Memory and State
-├── episode-03-.../                 # Future episodes
-├── .gitignore                      # Git ignore file
-└── README.md                       # This file
+├── requirements.txt                  # Shared dependencies for all episodes
+├── episode-01-langgraph-basics/      # Episode 1: Your First AI Agent
+├── episode-02-memory-and-state/      # Episode 2: Memory and State
+├── episode-03-conditional-logic/     # Episode 3: Conditional Logic & Branching
+├── episode-04-.../                   # Future episodes
+├── .gitignore                        # Git ignore file
+├── ROADMAP.md                        # 10-episode series roadmap
+└── README.md                         # This file
 ```
 
 ## Quick Start
