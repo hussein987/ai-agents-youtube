@@ -33,6 +33,14 @@ Give your AI agent a memory so it can remember conversations across multiple tur
 
 Build agents that make intelligent routing decisions based on state. [View Episode Code →](./episode-03-conditional-logic)
 
+### Episode 4 & 5: LangGraph Concepts Deep Dive
+
+**Episode 4:** [![Watch on YouTube](https://img.youtube.com/vi/vt6qkTOiA78/maxresdefault.jpg)](https://youtu.be/vt6qkTOiA78)
+
+**Episode 5:** [![Watch on YouTube](https://img.youtube.com/vi/EpE7YcGm2QU/maxresdefault.jpg)](https://youtu.be/EpE7YcGm2QU)
+
+A comprehensive deep dive into LangGraph's core concepts through interactive Jupyter notebooks covering graphs, state management, nodes, edges, and the Command pattern. [View Episode Code →](./episode-04-05-langgraph-concepts)
+
 ## Project Structure
 
 ```
@@ -41,7 +49,8 @@ ai-agents-youtube/
 ├── episode-01-langgraph-basics/      # Episode 1: Your First AI Agent
 ├── episode-02-memory-and-state/      # Episode 2: Memory and State
 ├── episode-03-conditional-logic/     # Episode 3: Conditional Logic & Branching
-├── episode-04-.../                   # Future episodes
+├── episode-04-05-langgraph-concepts/ # Episode 4 & 5: LangGraph Concepts Deep Dive
+├── episode-06-.../                   # Future episodes
 ├── .gitignore                        # Git ignore file
 ├── ROADMAP.md                        # 10-episode series roadmap
 └── README.md                         # This file
